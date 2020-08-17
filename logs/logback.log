@@ -1,0 +1,30 @@
+[2020-08-17 14:28:04:20954][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이메일 칸은 공백일 수 없습니다.
+[2020-08-17 14:28:04:20955][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 패스워드 칸은 공백일 수 없습니다.
+[2020-08-17 14:28:04:20955][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이름 칸은 공백일 수 없습니다.
+[2020-08-17 15:07:36:2392506][http-nio-8080-exec-2] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:07:36:2392506][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이름 칸은 공백일 수 없습니다.
+[2020-08-17 15:07:36:2392507][http-nio-8080-exec-2] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:07:36:2392507][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 패스워드 칸은 공백일 수 없습니다.
+[2020-08-17 15:07:36:2392507][http-nio-8080-exec-2] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:07:36:2392507][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이메일 칸은 공백일 수 없습니다.
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 패스워드 칸은 공백일 수 없습니다.
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 찍혀?
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] DEBUG c.c.l.config.aop.warn.BindingAdvice - 디버그 찍혀?
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이름 칸은 공백일 수 없습니다.
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 찍혀?
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] DEBUG c.c.l.config.aop.warn.BindingAdvice - 디버그 찍혀?
+[2020-08-17 15:12:48:2705421][http-nio-8080-exec-1] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:12:48:2705422][http-nio-8080-exec-1] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이메일 칸은 공백일 수 없습니다.
+[2020-08-17 15:12:48:2705422][http-nio-8080-exec-1] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 찍혀?
+[2020-08-17 15:12:48:2705422][http-nio-8080-exec-1] DEBUG c.c.l.config.aop.warn.BindingAdvice - 디버그 찍혀?
+[2020-08-17 15:13:11:2727677][http-nio-8080-exec-2] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:13:11:2727677][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이메일 칸은 공백일 수 없습니다.
+[2020-08-17 15:13:11:2727677][http-nio-8080-exec-2] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 찍혀?
+[2020-08-17 15:13:11:2727677][http-nio-8080-exec-2] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:13:11:2727677][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이름 칸은 공백일 수 없습니다.
+[2020-08-17 15:13:11:2727677][http-nio-8080-exec-2] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 찍혀?
+[2020-08-17 15:13:11:2727677][http-nio-8080-exec-2] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 15:13:11:2727678][http-nio-8080-exec-2] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 패스워드 칸은 공백일 수 없습니다.
+[2020-08-17 15:13:11:2727678][http-nio-8080-exec-2] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 찍혀?
